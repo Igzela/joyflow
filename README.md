@@ -53,17 +53,9 @@ MVP 使用模拟闸机、核销、排队和天气事件，不宣称已经接入�
 - [MVP 演示场景](docs/demo-scenario.md)
 - [指标与验证计划](docs/evaluation-plan.md)
 
-## 三人团队分工
-
-| 方向 | 主要职责 |
-|---|---|
-| 产品与技术负责人 | 方案架构、游客状态模型、事件链路、系统集成与技术答辩 |
-| 算法与数据 | 路线评分、模拟数据、实验设计与指标分析 |
-| 体验与表达 | 用户研究、交互原型、视觉呈现与答辩叙事 |
-
 ## 工程能力证明
 
-团队负责人已完成公开的事件溯源、确定性决策、受约束 Agent 调度与可审计工作流项目：[Token-Efficient Agent Harness Lab](https://github.com/Igzela/token-efficient-agent-harness-lab)。JoyFlow 复用其中的工程思想与验证方法，但会针对主题乐园场景重新实现。
+项目负责人已完成公开的事件溯源、确定性决策、受约束 Agent 调度与可审计工作流项目：[Token-Efficient Agent Harness Lab](https://github.com/Igzela/token-efficient-agent-harness-lab)。JoyFlow 复用其中的工程思想与验证方法，但会针对主题乐园场景重新实现。
 
 ## 当前状态
 
